@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "418192871988",
+    "firebase_url": "https://potoanira.firebaseio.com",
+    "project_id": "potoanira",
+    "storage_bucket": "potoanira.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418192871988:android:0b09fa6b1b2c1d8a",
+        "android_client_info": {
+          "package_name": "com.example.android.ira_1202150251_studycase6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418192871988-9dljil84q0np3ilin84hi3sifhqc5crb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.ira_1202150251_studycase6",
+            "certificate_hash": "0fa8dce06e1c9225ffd3c54f07e6c298118333ca"
+          }
+        },
+        {
+          "client_id": "418192871988-oms6m689uerbhqnqt979grmc2n1tl1fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbKVPSRXeaHQS3MiOKlPdA398KK8SOmks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418192871988-oms6m689uerbhqnqt979grmc2n1tl1fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
